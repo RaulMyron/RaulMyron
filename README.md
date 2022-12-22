@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo ;) | ✨✨
-#### Sou Raul Myron, atualmente estudante de Engenharia Mecatrônica na Universidade de Brasília (UnB) | 📚
-#### Sou formado como Técnico de Informática no Instituto Federal de Educação, Ciência e Tecnologia do estado do Tocantins | 
-#### Atualmente sou bolsista como tutor (desde 2020.2) de Algoritmo de Programação de Computadores, na UnB, onde ensinamos em Python o básico da programação
-#### Atualmente sou participante da equipe de robótica universitária UnBall, onde esta atua na categoria IEEE-VSSS 
+#### - Sou Raul Myron, atualmente estudante de Engenharia Mecatrônica na Universidade de Brasília (UnB) | 📚
+#### - Sou formado como Técnico de Informática no Instituto Federal de Educação, Ciência e Tecnologia do estado do Tocantins | 
+#### - Atualmente sou bolsista como tutor (desde 2020.2) de Algoritmo de Programação de Computadores, na UnB, onde ensinamos em Python o básico da programação
+#### - Atualmente sou participante da equipe de robótica universitária UnBall, onde esta atua na categoria IEEE-VSSS 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
