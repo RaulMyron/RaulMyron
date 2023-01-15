@@ -8,3 +8,4 @@
 #### - Atualmente sou participante da equipe de robótica universitária UnBall, onde esta atua na categoria IEEE-VSSS, em tal realizamos estudo sobre visão computacional, processamento de dados, transmissão serial usb e rádio, arquitetura e firmware em relação a a placa Weemos.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulmyron)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulmyron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
