@@ -8,6 +8,7 @@ cd ~/.ssh
 Gera um ssh
 ```bash
 ssh-keygen -t ed25519 -C "raul.myron@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "example@example.com" //caso voce esteja antes de ssh 6.8
 ```
 Ele vai pedir
 * name-file *
