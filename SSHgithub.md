@@ -7,7 +7,7 @@ cd ~/.ssh
 ```
 Gera um ssh
 ```bash
-ssh-keygen -t rsa -b 4096 -C "raul.myron@gmail.com"
+ssh-keygen -t ed25519 -C "raul.myron@gmail.com"
 ```
 Ele vai pedir
 * name-file *
