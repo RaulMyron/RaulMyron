@@ -21,7 +21,7 @@ eval $(ssh-agent)
 
 Adicione o agente aos truted hosts
 ```
-ssh-add name-file
+ssh-add ~/.ssh/name-file
 ```
 
 Aparecerá o pid do agente
