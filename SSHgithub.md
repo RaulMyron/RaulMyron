@@ -24,11 +24,14 @@ Adicione o agente aos truted hosts
 ssh-add ~/.ssh/name-file
 ```
 
-Aparecerá o pid do agente
+Aparecerá o pid do agente, caso queira listar seu ssh-add
 ```bash
 ssh-add -l
 ssh-add -l -E md5
 ssh-add -l -E sha256
+```
+```bash
+cat name-file.pub
 ```
 Agora pegue tudo que está escrito dentro do name-file.pub e coloque [a ssh key aqui](https://github.com/settings/keys)
 
