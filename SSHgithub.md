@@ -16,7 +16,7 @@ Ele vai pedir
 
 Roda seu SSH
 ```bash
-eval $(ssh-agent)
+eval $(ssh-agent -s)
 ```
 
 Adicione o agente aos truted hosts
