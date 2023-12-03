@@ -7,6 +7,7 @@ Pronto, agora dá pra resolver metade dos problemas, no meu caso no ubuntu geral
 ```bash
 sudo modprobe -r r8168; sudo modprobe r8169
 sudo mhwd -r pci network-r8168
+ubuntu-drivers autoinstall
 ```
 Voilá
 
