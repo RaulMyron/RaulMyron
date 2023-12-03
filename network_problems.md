@@ -13,9 +13,9 @@ ubuntu-drivers autoinstall
 ```bash
 sudo dkms remove r8168/8.043.02 --all
 
+sudo apt-get purge r8168-dkms
 sudo apt-get update
 sudo apt-get install r8168-dkms
-sudo apt-get purge r8168-dkms
 
 ```
 Voilá
