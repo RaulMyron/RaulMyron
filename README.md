@@ -1,11 +1,19 @@
 [![](https://img.shields.io/badge/-@raulmyron-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/raulmyron)
 [![](https://img.shields.io/badge/-@raulmyron-%23181717?style=flat-square&logo=github)](https://github.com/raulmyron)
 
-### Olá, seja bem vindo ;) | ✨✨
+### ENGLISH | Hello, be well ;) | ✨✨
+#### - I'm Raul Myron, currently a Mechatronics Engineering student at the University of Brasília (UnB) | 📚
+#### - I'm a Computer Technician formed from the Federal Institute of Education, Science and Technology in the state of Tocantins | 💻
+#### - Currently a Programming tutor at UnB, where we teach the basics of programming in Python | 🖥️
+#### - I'm currently a member of the UnBall university robotics team, where I work in the ROBOCUP-SSL, IEEE-VSSS and Simulations categories, carrying out studies on computer vision, artificial intelligence, data processing, usb and radio serial transmission, architecture and firmware with ESP, robotics | 👁️
+#### - Amazon Deepracer Competitor | 🚗
+
+### PT-BR | Olá, esteja bem ;) | ✨✨
 #### - Sou Raul Myron, atualmente estudante de Engenharia Mecatrônica na Universidade de Brasília (UnB) | 📚
-#### - Sou formado como Técnico de Informática no Instituto Federal de Educação, Ciência e Tecnologia do estado do Tocantins | 
-#### - Atualmente sou bolsista como tutor (desde 2020.2) de Algoritmo de Programação de Computadores, na UnB, onde ensinamos em Python o básico da programação
-#### - Atualmente sou participante da equipe de robótica universitária UnBall, onde esta atua na categoria IEEE-VSSS, em tal realizamos estudo sobre visão computacional, processamento de dados, transmissão serial usb e rádio, arquitetura e firmware em relação a a placa Weemos.
+#### - Sou formado como Técnico de Informática no Instituto Federal de Educação, Ciência e Tecnologia do estado do Tocantins | 💻
+#### - Atualmente tutor de Programação na UnB, onde ensinamos em Python o básico da programação | 🖥️
+#### - Atualmente sou participante da equipe de robótica universitária UnBall, onde está atua nas categorias ROBOCUP-SSL, IEEE-VSSS e Simulados, realizando estudos sobre visão computacional , inteligência artificial, processamento de dados, transmissão serial usb e rádio, arquitetura e firmware com ESP, robótica | 👁️
+#### - Amazon Deepracer Competitor | 🚗
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulmyron)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulmyron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
