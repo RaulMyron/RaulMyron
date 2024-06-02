@@ -26,9 +26,9 @@ sudo apt install ratbagd
 sudo apt install piper
 piper
 ```
-## Remeber to set up Git SSH key onto this (link)[https://github.com/RaulMyron/RaulMyron/blob/main/SSHgithub.md]
+## Remeber to set up Git SSH key onto this [link](https://github.com/RaulMyron/RaulMyron/blob/main/SSHgithub.md)
 
-## Remeber to set up branch Terminal (link)[https://github.com/RaulMyron/RaulMyron/blob/main/BetterTerminal.md]
+## Remeber to set up branch Terminal [link](https://github.com/RaulMyron/RaulMyron/blob/main/BetterTerminal.md)
 
 ## Some software update just for better use onto Ubuntu
 ```bash
