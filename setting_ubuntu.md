@@ -26,6 +26,12 @@ sudo apt install ratbagd
 sudo apt install piper
 piper
 ```
+## For git settings
+```bash
+git config --global user.email "raul.myron@gmail.com"
+git config --global user.name "raulmyron"
+```
+
 ## Remeber to set up Git SSH key onto this [link](https://github.com/RaulMyron/RaulMyron/blob/main/SSHgithub.md)
 
 ## Remeber to set up branch Terminal [link](https://github.com/RaulMyron/RaulMyron/blob/main/BetterTerminal.md)
