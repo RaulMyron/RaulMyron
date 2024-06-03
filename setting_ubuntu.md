@@ -40,4 +40,4 @@ git config --global user.name "raulmyron"
 ```bash
 sudo apt-get remove --auto-remove brltty
 sudo apt-get install python3-virtualenv
-`` 
+```
