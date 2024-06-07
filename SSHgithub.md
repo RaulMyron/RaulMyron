@@ -41,7 +41,7 @@ voilá. em teoria deu certo. dont call me if it does not work.
 # Criando uma SSH key no Windows
 
 ```powershell
-ssh-keygen
+ssh-keygen -t ed25519 -C "raul.myron@gmail.com"
 ```
 
 Agora pega a key fingerprint e põe [a ssh key aqui](https://github.com/settings/keys)
