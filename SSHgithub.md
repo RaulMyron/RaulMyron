@@ -37,3 +37,11 @@ cat name-file.pub
 Agora pegue tudo que está escrito dentro do name-file.pub e coloque [a ssh key aqui](https://github.com/settings/keys)
 
 voilá. em teoria deu certo. dont call me if it does not work. 
+
+# Criando uma SSH key no Windows
+
+```powershell
+ssh-keygen
+```
+
+Agora pega a key fingerprint e põe [a ssh key aqui](https://github.com/settings/keys)
