@@ -7,7 +7,7 @@
 #### - Currently a Programming tutor at UnB, where we teach the basics of programming in Python | 🖥️
 #### - I'm currently a member of the UnBall university robotics team, where I work in the ROBOCUP-SSL, IEEE-VSSS and Simulations categories, carrying out studies on computer vision, artificial intelligence, data processing, usb and radio serial transmission, architecture and firmware with ESP, robotics and Python | 👁️
 #### - Amazon Deepracer Competitor | 🚗
-#### - Anatel/UnB 6G Researcher
+#### - Former Anatel/UnB 6G ITU 2030 Researcher
 #### - SFTF'24 LAC
 
 ### PT-BR | Olá, esteja bem ;) | ✨✨
