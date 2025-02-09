@@ -11,11 +11,16 @@ export PATH="$HOME/anaconda3/bin:$PATH"
 ```bash
 code ~/.bashrc
 export CONDA_NO_PLUGINS=true
+conda config --set auto_activate_base false  # Add this line here
+
 
 # Conda control functions
 function condaon() {
-    source $HOME/anaconda3/etc/profile.d/conda.sh
-    conda activate base
+    if ! source "$HOME/anaconda3/etc/profile.d/conda.sh" 2>/dev/null; then
+        echo "Error: Could not source conda.sh"
+        return 1
+    fi
+    conda activate base || return 1
     if [[ $PS1 != *"(conda)"* ]]; then
         PS1="(conda) ${PS1}"
     fi
