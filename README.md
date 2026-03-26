@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-@raulmyron-%23181717?style=flat-square&logo=github)](https://github.com/raulmyron)
 
 ### ENGLISH | Hello, be well ;) | ✨✨
-#### - I'm Raul Myron, currently a Mechatronics Engineering student at the University of Brasília (UnB) | 📚
+#### - I'm Raul Myron, currently a Computer Engineering student at the University of Brasília (UnB) | 📚
 #### - I'm a Computer Technician formed from the Federal Institute of Education, Science and Technology in the state of Tocantins | 💻
 #### - Former tutor at UnB, where we teach the basics of programming in Python | 🖥️
 #### - I'm currently a member of the UnBall university robotics team, where I work in the ROBOCUP-SSL, IEEE-VSSS and Simulations categories, carrying out studies on computer vision, artificial intelligence, data processing, usb and radio serial transmission, architecture and firmware with ESP, robotics and Python | 👁️
