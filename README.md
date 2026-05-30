@@ -16,7 +16,7 @@
   - Providing specialized technical support for enterprise cloud infrastructure (public and private cloud solutions) for corporate and government clients, contributing to digital sovereignty projects.
   - **Key Activities:** Advanced troubleshooting of critical systems (logs, APIs, virtualization, storage, databases), DCAO tool usage for asset management, scripting/automation to reduce incident resolution time, application of architecture/networking/OS concepts (Linux/Windows), and bilingual technical communication with global engineering teams.
 - 🏆 **Certifications:** 1x HCIP | 1x HCIA | 2x HCCDA | 2x HCCDP
-- 👁️ **Captain** of the **UnBall** university robotics team. Applying electronics and C++/Python programming knowledge to develop autonomous soccer-playing robots.
+- 👁️ **Counselor** of the **UnBall** university robotics team. Applying electronics and C++/Python programming knowledge to develop autonomous soccer-playing robots.
 - 🖥️ Former Algorithms tutor at UnB
 - 🗣️ **Languages:** Portuguese (Native) · English (Conversational) · Learning: French, Spanish & Chinese
 - 🚗 Amazon DeepRacer competitor
@@ -30,9 +30,9 @@
   - Atuo no suporte técnico especializado à infraestrutura de nuvem enterprise para clientes corporativos e órgãos públicos, contribuindo para projetos de soberania digital através de soluções de nuvem privada e pública.
   - **Principais atividades:** Troubleshooting avançado de sistemas críticos (análise de logs, debugging de APIs, virtualização, storage e banco de dados), utilização de ferramentas DCAO para gestão de ativos, desenvolvimento de scripts e automações, aplicação prática de conceitos de arquitetura, redes e sistemas operacionais (Linux/Windows), e comunicação técnica bilíngue com equipes globais.
 - 🏆 **Certificações:** 1x HCIP | 1x HCIA | 2x HCCDA | 2x HCCDP
-- 👁️ **Capitão** da equipe de robótica universitária **UnBall**. Aplico conhecimentos de eletrônica e programação em C++ e Python para desenvolver robôs autônomos capazes de jogar futebol.
+- 👁️ **Conselheiro** da equipe de robótica universitária **UnBall**. Aplico conhecimentos de eletrônica e programação em C++ e Python para desenvolver robôs autônomos capazes de jogar futebol.
 - 🖥️ Ex-Tutor da disciplina de Algoritmos na UnB
-- 🗣️ **Idiomas:** Português (Nativo) · Inglês (Conversacional) · Aprendendo: Francês, Espanhol e Turco
+- 🗣️ **Idiomas:** Português (Nativo) · Inglês (Conversacional) · Aprendendo: Francês, Espanhol e Chinês
 - 🚗 Competidor Amazon DeepRacer
 - 📡 Ex-pesquisador Anatel/UnB sobre **6G — ITU 2030**
 - 🌱 **Seeds for the Future '24** — Top 10 finalista (LAC)
