@@ -58,13 +58,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/raulmyron">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=raulmyron&show_icons=true&theme=tokyonight&hide_border=true" alt="Raul Myron's GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=raulmyron&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Raul Myron's GitHub stats"/>
   </a>
   <a href="https://github.com/raulmyron">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulmyron&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulmyron&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Langs"/>
   </a>
 </p>
