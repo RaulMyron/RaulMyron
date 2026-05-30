@@ -18,7 +18,7 @@
 - 🏆 **Certifications:** 1x HCIP | 1x HCIA | 2x HCCDA | 2x HCCDP
 - 👁️ **Captain** of the **UnBall** university robotics team. Applying electronics and C++/Python programming knowledge to develop autonomous soccer-playing robots.
 - 🖥️ Former Algorithms tutor at UnB
-- 🗣️ **Languages:** Portuguese (Native) · English (Conversational) · Learning: French, Spanish & Turkish
+- 🗣️ **Languages:** Portuguese (Native) · English (Conversational) · Learning: French, Spanish & Chinese
 - 🚗 Amazon DeepRacer competitor
 - 📡 Former Anatel/UnB researcher on **6G — ITU 2030**
 - 🌱 **Seeds for the Future '24** — Top 10 finalist (LAC)
