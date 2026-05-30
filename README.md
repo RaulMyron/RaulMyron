@@ -2,10 +2,9 @@
 <p align="center"><em>Computer Engineering · Cloud · AI · Robotics & Hardware</em></p>
 
 <p align="center">
-  <a href="https://twitter.com/raulmyron"><img src="https://img.shields.io/badge/-@raulmyron-%23000000?style=flat-square&logo=x&logoColor=ffffff" alt="X"/></a>
+  <!-- <a href="https://twitter.com/raulmyron"><img src="https://img.shields.io/badge/-@raulmyron-%23000000?style=flat-square&logo=x&logoColor=ffffff" alt="X"/></a> -->
   <a href="https://github.com/raulmyron"><img src="https://img.shields.io/badge/-@raulmyron-%23181717?style=flat-square&logo=github" alt="GitHub"/></a>
-  <!-- Add your LinkedIn here: -->
-  <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a> -->
+  <a href="https://www.linkedin.com/in/raul-myron/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
 </p>
 
 ---
